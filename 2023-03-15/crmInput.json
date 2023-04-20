@@ -1,0 +1,338 @@
+{
+    "business_fields": [
+        {
+            "name": "Khác (Chưa phân loại được)",
+            "_id": "63db2f01f9edc77d561d17ac"
+        },
+        {
+            "name": "Y tế",
+            "_id": "63db2f01f9edc77d561d17ab"
+        },
+        {
+            "name": "Xuất nhập khẩu",
+            "_id": "63db2f01f9edc77d561d17aa"
+        },
+        {
+            "name": "Xuất bản",
+            "_id": "63db2f01f9edc77d561d17a9"
+        },
+        {
+            "name": "Xử lý chất thải",
+            "_id": "63db2f01f9edc77d561d17a8"
+        },
+        {
+            "name": "Xây dựng",
+            "_id": "63db2f01f9edc77d561d17a7"
+        },
+        {
+            "name": "Vận chuyển (Logistic)",
+            "_id": "63db2f01f9edc77d561d17a6"
+        },
+        {
+            "name": "Thực phẩm (Sản xuất)",
+            "_id": "63db2f01f9edc77d561d17a5"
+        },
+        {
+            "name": "Thời trang (Bán lẻ)",
+            "_id": "63db2f01f9edc77d561d17a4"
+        },
+        {
+            "name": "Thiết kế nội thất",
+            "_id": "63db2f01f9edc77d561d17a3"
+        },
+        {
+            "name": "Tài chính",
+            "_id": "63db2f01f9edc77d561d17a2"
+        },
+        {
+            "name": "Spa, làm đẹp",
+            "_id": "63db2f01f9edc77d561d17a1"
+        },
+        {
+            "name": "Sản Xuất",
+            "_id": "63db2f01f9edc77d561d17a0"
+        },
+        {
+            "name": "Quán trà sữa",
+            "_id": "63db2f01f9edc77d561d179f"
+        },
+        {
+            "name": "Quán Sinh tố, Kem",
+            "_id": "63db2f01f9edc77d561d179e"
+        },
+        {
+            "name": "Quán Rau má, Yaua…",
+            "_id": "63db2f01f9edc77d561d179d"
+        },
+        {
+            "name": "Quán nhậu",
+            "_id": "63db2f01f9edc77d561d179c"
+        },
+        {
+            "name": "Quán cafe",
+            "_id": "63db2f01f9edc77d561d179b"
+        },
+        {
+            "name": "Quán ăn",
+            "_id": "63db2f01f9edc77d561d179a"
+        },
+        {
+            "name": "Phân phối",
+            "_id": "63db2f01f9edc77d561d1799"
+        },
+        {
+            "name": "Nông nghiệp",
+            "_id": "63db2f01f9edc77d561d1798"
+        },
+        {
+            "name": "Nhiệt lạnh",
+            "_id": "63db2f01f9edc77d561d1797"
+        },
+        {
+            "name": "Nhân sự",
+            "_id": "63db2f01f9edc77d561d1796"
+        },
+        {
+            "name": "Nhà hàng",
+            "_id": "63db2f01f9edc77d561d1795"
+        },
+        {
+            "name": "Ngân hàng",
+            "_id": "63db2f01f9edc77d561d1794"
+        },
+        {
+            "name": "Kiến trúc",
+            "_id": "63db2f01f9edc77d561d1793"
+        },
+        {
+            "name": "Kiểm toán",
+            "_id": "63db2f01f9edc77d561d1792"
+        },
+        {
+            "name": "Kho vận",
+            "_id": "63db2f01f9edc77d561d1791"
+        },
+        {
+            "name": "Khách sạn/Resort",
+            "_id": "63db2f01f9edc77d561d1790"
+        },
+        {
+            "name": "Karaoke",
+            "_id": "63db2f01f9edc77d561d178f"
+        },
+        {
+            "name": "IT-Thương mại điện tử",
+            "_id": "63db2f01f9edc77d561d178e"
+        },
+        {
+            "name": "IT-Phần mềm",
+            "_id": "63db2f01f9edc77d561d178d"
+        },
+        {
+            "name": "IT-Phần cứng",
+            "_id": "63db2f01f9edc77d561d178c"
+        },
+        {
+            "name": "IT-Online Media, Truyền thông",
+            "_id": "63db2f01f9edc77d561d178b"
+        },
+        {
+            "name": "IT- Viễn Thông",
+            "_id": "63db2f01f9edc77d561d178a"
+        },
+        {
+            "name": "IT- Mạng Internet",
+            "_id": "63db2f01f9edc77d561d1789"
+        },
+        {
+            "name": "IT- Internet",
+            "_id": "63db2f01f9edc77d561d1788"
+        },
+        {
+            "name": "In ấn",
+            "_id": "63db2f01f9edc77d561d1787"
+        },
+        {
+            "name": "Hàng không",
+            "_id": "63db2f01f9edc77d561d1786"
+        },
+        {
+            "name": "Hàng hải",
+            "_id": "63db2f01f9edc77d561d1785"
+        },
+        {
+            "name": "Gỗ (Sản xuất)",
+            "_id": "63db2f01f9edc77d561d1784"
+        },
+        {
+            "name": "Giao nhận",
+            "_id": "63db2f01f9edc77d561d1783"
+        },
+        {
+            "name": "Giáo dục- Đào tạo- Trường học",
+            "_id": "63db2f01f9edc77d561d1782"
+        },
+        {
+            "name": "Dược Phẩm",
+            "_id": "63db2f01f9edc77d561d1781"
+        },
+        {
+            "name": "Du lịch",
+            "_id": "63db2f01f9edc77d561d1780"
+        },
+        {
+            "name": "Điện tử",
+            "_id": "63db2f01f9edc77d561d177f"
+        },
+        {
+            "name": "Điện thoại (Bán lẻ)",
+            "_id": "63db2f01f9edc77d561d177e"
+        },
+        {
+            "name": "Điện lạnh",
+            "_id": "63db2f01f9edc77d561d177d"
+        },
+        {
+            "name": "Điện",
+            "_id": "63db2f01f9edc77d561d177c"
+        },
+        {
+            "name": "Dịch vụ khách hàng",
+            "_id": "63db2f01f9edc77d561d177b"
+        },
+        {
+            "name": "Bán lẻ",
+            "_id": "63db2f01f9edc77d561d176d"
+        },
+        {
+            "name": "Bán sỉ",
+            "_id": "63db2f01f9edc77d561d176e"
+        },
+        {
+            "name": "Báo chí",
+            "_id": "63db2f01f9edc77d561d176f"
+        },
+        {
+            "name": "Bảo hiểm",
+            "_id": "63db2f01f9edc77d561d1770"
+        },
+        {
+            "name": "Bảo trì & Sửa chữa",
+            "_id": "63db2f01f9edc77d561d1771"
+        },
+        {
+            "name": "Bảo vệ",
+            "_id": "63db2f01f9edc77d561d1772"
+        },
+        {
+            "name": "Bất động sản",
+            "_id": "63db2f01f9edc77d561d1773"
+        },
+        {
+            "name": "Chăm sóc sức khỏe",
+            "_id": "63db2f01f9edc77d561d1774"
+        },
+        {
+            "name": "Chứng khoán",
+            "_id": "63db2f01f9edc77d561d1775"
+        },
+        {
+            "name": "Cơ khí (Sản xuất)",
+            "_id": "63db2f01f9edc77d561d1776"
+        },
+        {
+            "name": "Công nghệ cao (Sản xuất)",
+            "_id": "63db2f01f9edc77d561d1777"
+        },
+        {
+            "name": "Da giày (Sản xuất)",
+            "_id": "63db2f01f9edc77d561d1778"
+        },
+        {
+            "name": "Đầu tư",
+            "_id": "63db2f01f9edc77d561d1779"
+        },
+        {
+            "name": "Dệt may (Sản xuất)",
+            "_id": "63db2f01f9edc77d561d177a"
+        }
+    ],
+    "confirm_tags": [
+        {
+            "name": "CS Hỗ trợ tệ",
+            "_id": "633cf4ef5b72245c3279ac4b"
+        },
+        {
+            "name": "Vấn đề về Giá",
+            "_id": "633cf4ef5b72245c3279ac4a"
+        },
+        {
+            "name": "Không nói chuyện - cúp máy",
+            "_id": "633cf4ef5b72245c3279ac49"
+        },
+        {
+            "name": "Vẫn làm thủ công",
+            "_id": "633cf4ef5b72245c3279ac48"
+        },
+        {
+            "name": "Đã chọn phần mềm khác",
+            "_id": "633cf4ef5b72245c3279ac47"
+        },
+        {
+            "name": "Đã có phần mềm",
+            "_id": "633cf4ef5b72245c3279ac46"
+        },
+        {
+            "name": "Sếp đang xem",
+            "_id": "633cf4ef5b72245c3279ac45"
+        },
+        {
+            "name": "Sếp không duyệt",
+            "_id": "633cf4ef5b72245c3279ac44"
+        },
+        {
+            "name": "Công ty quá nhỏ",
+            "_id": "633cf4ef5b72245c3279ac43"
+        },
+        {
+            "name": "Nhu cầu cao",
+            "_id": "633cf4ef5b72245c3279ac42"
+        },
+        {
+            "name": "Nhu cầu chưa cao",
+            "_id": "633cf4ef5b72245c3279ac41"
+        },
+        {
+            "name": "Không có nhu cầu",
+            "_id": "633cf4ef5b72245c3279ac40"
+        },
+        {
+            "name": "Bận chưa có thời gian dùng",
+            "_id": "6356580eff9b8cc4ab7b8778"
+        },
+        {
+            "name": "Đợi phát triển tính năng",
+            "_id": "6356580eff9b8cc4ab7b8777"
+        },
+        {
+            "name": "Gặp lỗi khi test",
+            "_id": "6356580eff9b8cc4ab7b8776"
+        },
+        {
+            "name": "Bận gọi lại sau",
+            "_id": "635cd1ffc87681dfefd9acd4"
+        },
+        {
+            "name": "Không bắt máy",
+            "_id": "635cd1ffc87681dfefd9acd3"
+        },
+        {
+            "name": "Sai đối tượng/Tạo để test chơi",
+            "_id": "63ef02bbd1cbe0057709c9e6"
+        },
+        {
+            "name": "Ứng dụng khó dùng & không hợp tác trao",
+            "_id": "63ef03b1d1cbe0057709c9e7"
+        }
+    ]
+}
